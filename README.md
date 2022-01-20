@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hep000
+- 👀 I’m interested in AI. In particular computer vision and robotics
+- 🌱 I’m currently learning Python and AI on a Jetson Nano
+- 📫 How to reach me ...
